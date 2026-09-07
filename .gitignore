@@ -1,0 +1,10 @@
+# Binarios y objetos: se regeneran al compilar
+*.o
+*.out
+*.exe
+programa
+
+# Sistema operativo y editor
+.DS_Store
+.vscode/
+*.dSYM/
